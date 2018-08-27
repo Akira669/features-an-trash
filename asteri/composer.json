@@ -1,0 +1,22 @@
+{
+    "name": "phpari/astericks",
+    "description": "api conexion con astericks",
+    "type": "project",
+    "require": {
+        "php": ">=5.6",
+        "educoder/pest": "1.0.0",
+        "devristo/phpws": "dev-master",
+        "greenfieldtech-nirs/phpari": "dev-master"
+    },
+    "require-dev": {
+        "nodejs-php-fallback/react": "^1.3"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "adolfo.posadas",
+            "email": "adolfo.posadas@tecnoaplica.com"
+        }
+    ],
+    "minimum-stability": "beta"
+}
